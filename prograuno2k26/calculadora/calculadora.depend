@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\calculadora\main.cpp
+	<iostream>
+
+1774281075 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\calculadora\src\imprime.cpp
+	"imprime.h"
+
+1774281075 c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\calculadora\include\imprime.h
+

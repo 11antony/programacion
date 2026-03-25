@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774448408 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\buscaminas\src\config.cpp
+
+1774447684 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\buscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Config.h"
+
+1774447845 c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\buscaminas\include\config.h
+
