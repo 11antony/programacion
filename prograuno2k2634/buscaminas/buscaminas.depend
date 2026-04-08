@@ -8,3 +8,8 @@
 
 1774447845 c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\buscaminas\include\config.h
 
+1774447684 source:c:\users\emanu\tareas\programacion\prograuno2k2634\buscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Config.h"
+
