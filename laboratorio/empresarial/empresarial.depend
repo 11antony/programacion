@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775663891 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\empresarial\src\ventas.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"ventas.h"
+
+1775663800 c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\empresarial\include\ventas.h
+	<string>
+
+1775665694 source:c:\users\emanu\toy\project\programacion\programacion_1.umg\prograuno2k26\empresarial\main.cpp
+	<iostream>
+	<time.h>
+	"ventas.h"
+
